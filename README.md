@@ -189,13 +189,11 @@
 
 ![병규버전_Signup](https://github.com/TourRoute/FE_TourRoute/assets/77834532/9d5e8b96-f05b-4cf6-9135-e1837756bc48)
 
-
 <p style="text-align: center">[ 회원가입을 위한 회원정보 입력했을 시, 유효성 검사 후 회원가입 성공 화면 ]</p>
 
 <br />
 
 ![병규버전_Login](https://github.com/TourRoute/FE_TourRoute/assets/77834532/9f985b96-c0ff-4b69-8e13-05c660b28694)
-
 
 <p style="text-align: center">[ 내가작성한 정보가 회원가입한 데이터가 있을 경우 로그인 성공 화면 + 유효성 ]</p>
 
@@ -205,20 +203,17 @@
 
 ![TourPlanMain](https://github.com/TourRoute/FE_TourRoute/assets/77834532/653ec97c-1bbe-4df4-88d4-bf790c78392b)
 
-
 <p style="text-align: center">[ 서브페이지를 거치지않고, 메인페이지에서 바로 여행계획의 날짜를 입력해 추천경로를 찾아주는 여행계획 ]</p>
 
 <br />
 
 ![TourPlanCategory](https://github.com/TourRoute/FE_TourRoute/assets/77834532/904888dd-77cf-402e-b1fe-f7e74ee51126)
 
-
 <p style="text-align: center">[ 다음 단계인 카테고리를 선택하는 화면 ]</p>
 
 <br />
 
 ![TourPlanList](https://github.com/TourRoute/FE_TourRoute/assets/77834532/60cec5a3-ca9d-48ed-b1a1-c61d36075834)
-
 
 <p style="text-align: center">[ 여행리스트들이 1, 2, 3일차로 나눠져 지도와 정보들의 리스트들을 사용자가 볼 수 있는 화면 ]</p>
 
@@ -228,7 +223,6 @@
 
 ![Festival](https://github.com/TourRoute/FE_TourRoute/assets/77834532/be75dee8-caff-4afa-a8c7-800097a22664)
 
-
 <p style="text-align: center">[ 경상도의 각 지역별 카테고리로 축제들을 볼 수 있으며, 축제의 정보들을 제공하는 화면 ]</p>
 
 <br />
@@ -236,7 +230,6 @@
 - #### 커뮤니티
 
 ![CommunityWrite](https://github.com/TourRoute/FE_TourRoute/assets/77834532/2adaa892-b1c9-40cb-b833-21cb7e0ad32a)
-
 
 <p style="text-align: center">[ 글쓰기 글 게시하는 화면 ]</p>
 
@@ -274,13 +267,11 @@
 
 ![CommunityModify](https://github.com/TourRoute/FE_TourRoute/assets/77834532/0d4d91ee-9219-425c-a169-30e9c55ce806)
 
-
 <p style="text-align: center">[ 커뮤니티글을 수정 또는 삭제하는 화면 ]</p>
 
 <br />
 
 ![comment](https://github.com/TourRoute/FE_TourRoute/assets/77834532/b4d5c219-807d-4e78-a20d-6bc6e53a5427)
-
 
 <p style="text-align: center">[ 커뮤니티글의 댓글 게시, 수정, 삭제 화면 ]</p>
 
@@ -299,6 +290,5 @@
 <br />
 
 ![MyProprofileImageChange](https://github.com/TourRoute/FE_TourRoute/assets/77834532/e4d76642-4fa2-45a9-bfc7-119f849464df)
-
 
 <p style="text-align: center">[ 프로필 이름과, 이미지를 편집 또는 추가 하는 화면 ]</p>
